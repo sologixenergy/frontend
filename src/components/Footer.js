@@ -59,7 +59,7 @@ export const Footer = () => {
           </li>
           <li className="mb-1">
             <a
-              href="/about"
+              href="/aboutus"
               className="hover:bg-[#465CAF] hover:text-white px-6 py-1 rounded-md text-black font-light text-[16px] font-[Poppins]"
             >
               About Us
@@ -67,7 +67,7 @@ export const Footer = () => {
           </li>
           <li className="mb-1">
             <a
-              href="/home"
+              href="/forhome"
               className="hover:bg-[#465CAF] hover:text-white px-6 py-1 rounded-md text-black font-light text-[16px] font-[Poppins]"
             >
               For Home
@@ -75,7 +75,7 @@ export const Footer = () => {
           </li>
           <li className="mb-1">
             <a
-              href="/business"
+              href="/solorbusiness"
               className="hover:bg-[#465CAF] hover:text-white px-6 py-1 rounded-md text-black font-light text-[16px] font-[Poppins]"
             >
               For Business
@@ -83,7 +83,7 @@ export const Footer = () => {
           </li>
           <li className="mb-1">
             <a
-              href="/partner"
+              href="/becomepartner"
               className="hover:bg-[#465CAF] hover:text-white px-6 py-1 rounded-md text-black font-light text-[16px] font-[Poppins]"
             >
               Become a Partner
@@ -99,7 +99,7 @@ export const Footer = () => {
           </li>
           <li className="mb-1">
             <a
-              href="/contact"
+              href="/contactus"
               className="hover:bg-[#465CAF] hover:text-white px-6 py-1 rounded-md text-black font-light text-[16px] font-[Poppins]"
             >
               Contact Us
